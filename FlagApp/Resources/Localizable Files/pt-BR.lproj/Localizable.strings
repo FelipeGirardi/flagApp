@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  FlagApp
+
+  Created by Felipe Girardi on 24/09/20.
+  Copyright © 2020 Flag. All rights reserved.
+*/
+
+// Tab Bar
+"Challenges" = "Desafios";
+"Profile" = "Perfil";
+"Social" = "Social";
+
+// Onboarding
+"What the flag?" = "Mas o que é Flag?";
+"Skip" = "Pular";
+"Onboarding description 1" = "Flag é um jeito\ntotalmente novo\nde se desafiar!";
+"HOW DOES THAT WORK?" = "COMO FUNCIONA?";
+"Onboarding description 2" = "Nós usamos algoritmos para captar sua reação nos desafios para que você tenha a melhor experiência possível!";
+"AWESOME!" = "SHOW!";
+"Onboarding description 3" = "Preparado para ser o mestre dos desafios?";
+"LET'S DO IT!" = "BORA!";
+
+// Challenges list
+"Try not to smile" = "Tente não rir";
+"Try not to blink" = "Tente não piscar";
+"TNTSmile cell description" = "Reaja a uma série de conteúdos sem sorrir!";
+"TNTBlink cell description" = "Reaja a uma série de conteúdos sem piscar!";
+"More coming soon!" = "Mais em breve!";
+"New challenges are just around the corner. Stay tuned!" = "Novos desafios estão chegando. Fique ligado!";
+"Coming soon description 1" = "Flag Media é um pequeno grupo de desenvolvedores brasileiros trabalhando para trazer novas funcionalidades o mais cedo possível!";
+"Have cool insights for us?" = "Quer falar com a gente?";
+"Coming soon description 2" = "Clique neste espaço para acessar nossa conta no Instagram e nos envie uma mensagem privada!";
+
+// Intro challenge screen
+"HOW TO PLAY" = "COMO JOGAR";
+"Show your face cam" = "Mostre sua câmera de rosto";
+"START" = "COMEÇAR";
+"Challenge Permissions" = "Permissões do desafio";
+"Permissions description" = "Para ter uma experiência completa dos desafios, nós gostaríamos de acessar a câmera. Tudo bem?";
+"Allow camera access" = "Permitir acesso à câmera";
+"Close" = "Fechar";
+"TNTSmile main description" = "Nós vamos reconhecer suas expressões faciais com apenas uma regra em mente: você não pode sorrir! Se você sorrir, você perde pontos.";
+"TNTBlink main description" = "Nós vamos reconhecer suas expressões faciais com apenas uma regra em mente: você não pode piscar! Se você sorrir, você perde pontos.";
+"TNTSmile rules" = "Quando você começar, um vídeo aleatório vai aparecer. Você começa com 100 RP (Pontos de Reação). Se você sorrir, seu RP vai diminuir automaticamente - quanto mais você sorrir, mais pontos você perde. Você também perde pontos se retirar seu rosto da câmera. Quando o vídeo termina, você ganha os pontos que tem sobrando.";
+"TNTBlink rules" = "Quando você começar, um vídeo aleatório vai aparecer. Você começa com 100 RP (Pontos de Reação). Se você piscar, seu RP vai diminuir automaticamente - quanto mais você piscar, mais pontos você perde. Você também perde pontos se retirar seu rosto da câmera. Quando o vídeo termina, você ganha os pontos que tem sobrando.";
+"If you reach 0 RP" = "Se você chegar a 0 RP, você falhou o desafio!";
+"The higher your RP" = "Quando maior o seu RP, melhor o seu ranking.";
+"GOT IT!" = "ENTENDI!";
+"Landscape mode" = "Jogar no modo paisagem";
+
+
+// Mid challenge screen
+"Challenge Progress" = "Progresso";
+"Reaction Points" = "Pontos de Reação";
+"Place your face here!" = "Coloque seu rosto aqui!";
+"Exit challenge?" = "Sair do desafio?";
+"You will lose all points" = "Você irá perder todos seus pontos \natuais de desafio!";
+"Cancel" = "Cancelar";
+"Exit" = "Sair";
+
+// End challenge screen
+"Challenge completed!" = "Desafio completo!";
+"You got" = "Você ganhou";
+"+ 2 peak tokens!" = "+ 2 peak tokens!";
+"%d day streak!" = "%d dias seguidos!";
+"+ %d peak tokens!" = "+ %d peak tokens!";
+"CONTINUE" = "CONTINUAR";
+"COOL!" = "LEGAL!";
+"Level progress" = "Progresso de nível";
+"Challenge failed :/" = "Desafio perdido :/";
+"You’ve run out of Reaction Points!" = "Seus Pontos de Reação acabaram!";
+"BACK TO MENU" = "VOLTAR AO MENU";
+"ShareResultMessage" = "Acabei de arrasar no desafio do Flag! Vai me encarar?";
+"Reward time!" = "Hora da recompensa!";
+"Use your tokens" = "Use seus tokens para comprar novas bandeiras na aba do seu perfil!";
+"Flag is free" = "O Flag é grátis graças ao anúncio a seguir";
+
+// Profile
+"Sign in to access all Flag features!" = "Inicie sessão para\nacessar tudo do Flag!";
+"Edit" = "Editar";
+"Sign out" = "Sair";
+"Sign out description" = "Você sempre pode acessar seu conteúdo ao iniciar nova sessão.";
+"Confirm" = "Confirmar";
+"Your username must have 3 characters or more!" = "Seu nome de usuário deve ter 3 caracteres ou mais!";
+"Subtitle here" = "Legenda aqui";
+"Change profile picture" = "Mudar imagem de perfil";
+"Choose in library" = "Escolher na biblioteca";
+"Take photo" = "Tirar foto";
+"Remove profile picture" = "Remover imagem de perfil";
+"Cancel" = "Cancelar";
+"About me" = "Sobre mim";
+"Write something that defines you!" = "Escreva algo que define você!";
+"Level" = "Nível";
+"Done" = "Salvar";
+"More levels coming soon!" = "Mais níveis em breve!";
+"Until next level" = "até o próximo nível";
+"Available" = "disponíveis";
+"Our leaderboard is connected via Game Center!" = "Nosso leaderboard é conectado com o Game Center!";
+"Connect to Game Center" = "Conectar com Game Center";
+"Change flag" = "Mudar bandeira";
+"Buy this item for" = "Compre este item por";
+"BUY" = "COMPRAR";
+"Purchase" = "Comprar";
+"Token Packs" = "Pacotes de Tokens";
+"Loading products..." = "Carregando produtos...";
+"Not available." = "Não disponível.";
+"BEST BARGAIN!" = "MELHOR PREÇO!";
+
+// Flag Store
+"Select a flag to represent you:" = "Selecione uma bandeira para representar você:";
+"Countries" = "Países";
+"Pride" = "Orgulho";
+"Soccer Teams" = "Times de futebol";
+"Brazil" = "Brasil";
+"USA" = "EUA";
+"Italy" = "Itália";
+"Indonesia" = "Indonésia";
+"Black Lives Matter" = "Vidas Negras Importam";
+"Feminism" = "Feminismo";
+"Peace" = "Paz";

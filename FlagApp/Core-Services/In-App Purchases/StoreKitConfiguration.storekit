@@ -1,0 +1,34 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "3B8C6B8D",
+      "localizations" : [
+        {
+          "description" : "With 100 Coins you can buy many flags!",
+          "displayName" : "100 Coins",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Com 100 moedas você pode comprar bandeiras!",
+          "displayName" : "100 Moedas",
+          "locale" : "pt_BR"
+        }
+      ],
+      "productID" : "flag.FlagApp.100coins",
+      "referenceName" : "100Coins",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
